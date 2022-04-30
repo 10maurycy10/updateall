@@ -39,3 +39,5 @@ When you are done, please submit a pull request to the repo.
 - snap
 
 - npm global install
+
+- cargo (requires cargo-install-upgrade)
