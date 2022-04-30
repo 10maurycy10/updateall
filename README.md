@@ -16,7 +16,7 @@ In the root of the repo run
 
 ## Adding package managers
 
-Simply put a shell script in ``install.d``. You can also create a script with the same name but with ``.test`` at the end, to check if the package manager is installed.
+Simply put a shell script in ``install.d``. You can also create a script with the same name but with ``.detect`` at the end, to check if the package manager is installed.
 
 When you are done, please submit a pull request to the repo.
 

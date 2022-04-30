@@ -1,2 +1,3 @@
 #!/bin/sh
-sudo fwupdmgr update
+sudo fwupdmgr refresh
+sudo fwupdmgr get-updates && sudo ifwupdmgr update || exit 0
