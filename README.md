@@ -20,17 +20,17 @@ Simply put a shell script in ``install.d``. You can also create a script with th
 
 When you are done, please submit a pull request to the repo.
 
-## Suported package managers (so far)
+## Supported package managers (so far)
 
-- apt (debian and debian based)
+- apt (Debian and Debian based)
 
 - pacman (arch and arch based)
 
 - xbps (void linux)
 
-- yay (aur)
+- yay (AUR)
 
-- paru (aur)
+- paru (AUR)
 
 - fwupd (firmware)
 
@@ -41,3 +41,5 @@ When you are done, please submit a pull request to the repo.
 - npm global install
 
 - cargo (requires cargo-install-upgrade)
+
+- nix (nixos only)
