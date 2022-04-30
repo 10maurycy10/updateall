@@ -1,3 +1,4 @@
 #!/bin/sh
-apt update
-apt fullupgrad#!/bin/sh
+sudo apt update
+sudo apt full-upgrade
+sudo apt dist-upgrade

@@ -22,12 +22,20 @@ When you are done, please submit a pull request to the repo.
 
 ## Suported package managers (so far)
 
-- apt
+- apt (debian and debian based)
 
-- pacman 
+- pacman (arch and arch based)
 
-- xbps
+- xbps (void linux)
 
-- yay
+- yay (aur)
 
-- paru
+- paru (aur)
+
+- fwupd (firmware)
+
+- flatpak
+
+- snap
+
+- npm global install

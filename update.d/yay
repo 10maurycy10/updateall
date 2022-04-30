@@ -1,2 +1,2 @@
 #!/bin/sh
-yay -Syu
+yay -Syu --aur
