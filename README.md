@@ -43,3 +43,5 @@ When you are done, please submit a pull request to the repo.
 - cargo (requires cargo-install-upgrade)
 
 - nix (nixos only)
+
+- git (in home and .config)
